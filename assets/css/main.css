@@ -4398,7 +4398,7 @@ body .mfp-wrap .mfp-container .mfp-content .mfp-close:hover::after {
 }
 @media (max-width: 1199px) {
   .hero__ico {
-    min-height: 930px;
+    min-height: 730px;
   }
 }
 @media (max-width: 991px) {
@@ -4409,6 +4409,7 @@ body .mfp-wrap .mfp-container .mfp-content .mfp-close:hover::after {
 @media (max-width: 767px) {
   .hero__ico {
     padding-top: 180px;
+    min-height: 100vh;
   }
 }
 .hero__blockchain {
